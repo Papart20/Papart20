@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Papart20
-- 👀 I’m interested in machine learning and everything that concerns coding
-- 🌱 I’m currently learning how to code
+- 👀 I’m interested in machine learning and everything about coding and how computers changed our way to solve problems.
+- 🌱 I’m currently learning almost all the engineering subjects
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me: 'I'm everywhere'
 
